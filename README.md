@@ -1,4 +1,4 @@
 SkullCutter
 ===========
 
-How I cut skull?
+Abandoned project.
